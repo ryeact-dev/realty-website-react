@@ -69,7 +69,7 @@ export default function ListingCard({ singleListing }) {
         <Image
           src={imgUrls[0]}
           alt='listing-cover'
-          className='h-[320px] sm:h-[220px] w-full object-cover hover:scale-105 transition-scale duration-300'
+          className='h-[320px] sm:h-[220px] w-full object-cover hover:scale-105 transition-scale duration-300 ease-in-out'
         />
       </figure>
       <div className='flex flex-col gap-4 w-full py-2'>
