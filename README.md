@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Demo
 
-https://mern-realty-marketplace-vite-two.vercel.app/
+https://realty-website-react-client.vercel.app/
 
 ## Tech Stack
 
